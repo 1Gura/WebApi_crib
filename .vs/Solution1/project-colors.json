@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "deae9529-abce-415d-93bf-d5731eb018a1": {
+      "ProjectGuid": "deae9529-abce-415d-93bf-d5731eb018a1",
+      "DisplayName": "Domains",
+      "ColorIndex": 0
+    },
+    "1576e827-1553-4945-8ac1-28c83dd269b1": {
+      "ProjectGuid": "1576e827-1553-4945-8ac1-28c83dd269b1",
+      "DisplayName": "Application",
+      "ColorIndex": 1
+    },
+    "b5622a1f-3b0f-4c7b-94ab-8869cbc59319": {
+      "ProjectGuid": "b5622a1f-3b0f-4c7b-94ab-8869cbc59319",
+      "DisplayName": "Persistence",
+      "ColorIndex": 2
+    },
+    "b0db58e5-a451-4fdf-8020-607be5502d92": {
+      "ProjectGuid": "b0db58e5-a451-4fdf-8020-607be5502d92",
+      "DisplayName": "WebApi",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "bee5dd16-231b-444e-b0fa-554962f2c2c6": {
+      "ProjectGuid": "bee5dd16-231b-444e-b0fa-554962f2c2c6",
+      "DisplayName": "Mappings",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
